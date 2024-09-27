@@ -1,1 +1,1 @@
-
+<img src="https://cdn.jsdelivr.net/gh/MENTALLY-GERM4N/.github@main/branding/logo/png/Logo.png" />
